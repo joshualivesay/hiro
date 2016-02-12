@@ -1,4 +1,7 @@
 {<img src="https://travis-ci.org/joshualivesay/hiro.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/joshualivesay/hiro]
+{<img src="https://codeclimate.com/github/joshualivesay/hiro/badges/gpa.svg" />}[https://codeclimate.com/github/joshualivesay/hiro]
+{<img src="https://codeclimate.com/github/joshualivesay/hiro/badges/coverage.svg" />}[https://codeclimate.com/github/joshualivesay/hiro/coverage]
+<a href="https://codeclimate.com/github/joshualivesay/hiro"><img src="https://codeclimate.com/github/joshualivesay/hiro/badges/issue_count.svg" /></a>
 == README
 
 This README would normally document whatever steps are necessary to get the
