@@ -22,8 +22,7 @@ development:
 test:
   <<: *default
   database: hiro_test
-  username: hiro
-  password: password
+  username: postgres
 
 production:
   <<: *default
