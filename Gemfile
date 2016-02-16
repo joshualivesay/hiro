@@ -37,6 +37,11 @@ group :development, :test do
   gem 'byebug'
 end
 
+group :test do
+  gem 'rspec-rails'
+  gem 'database_cleaner'
+end
+
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
@@ -46,5 +51,8 @@ group :development do
 end
 
 gem 'rails_12factor', group: :production
+gem 'twilio-ruby'
+gem 'bootstrap-sass', '~> 3.3.5'
+
 
 ruby '2.2.2'
